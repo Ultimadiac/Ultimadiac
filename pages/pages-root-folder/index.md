@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  title: Chris L Henrick
+  title: Mohamed Abu Shally
   image_fullwidth: clhenrick-landing-header.jpg
 widget1:
   title: "My Work"
@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: "Blog"
   url: '/blog/'
-  <!-- image: widget02.jpg -->
+  image: widget02.jpg
   text: 'My ramblings on previous projects and solving problems relating to the web, data, cartography, and design.'
 widget3:
   title: "Talk to me"

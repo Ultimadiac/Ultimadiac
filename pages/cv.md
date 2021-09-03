@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Chris L Henrick / Curriculum Vitae"
+title: "Mohamed"
 meta_description: "Curriculum Vitae or Résumé of Chris Henrick"
 subheadline: ""
 permalink: "/about/cv/"
@@ -48,7 +48,7 @@ Data Visualization Engineer at [OmniSci](https://www.omnisci.com/) (formerly Map
 *August, 2017 – December, 2017*  
 Berkeley, CA  
 
-Taught _Interactive Data Visualization with D3_, for the [School of Information](https://www.ischool.berkeley.edu/) during the Fall semester of 2017. 
+Taught _Interactive Data Visualization with D3_, for the [School of Information](https://www.ischool.berkeley.edu/) during the Fall semester of 2017.
 - Through thirteen lectures and fifteen hands on coding assignments, students learned how to create interactive charts, graphs, and geographic maps for display on the web using the popular D3JS Javascript library.
 
 ### GreenInfo Network
@@ -75,7 +75,7 @@ One part data wrangler, one part cartographer, and several parts web developer f
 *May, 2015 - April 2016*  
 Brooklyn, NY  
 
-Consulted with [Radish Lab](http://radishlab.com/), a certified B Corporation, web and graphic design studio, with creating interactive data-visualizations and professionally designed web sites for non-profits and cultural institutions such as [MAS](http://mas.org/). 
+Consulted with [Radish Lab](http://radishlab.com/), a certified B Corporation, web and graphic design studio, with creating interactive data-visualizations and professionally designed web sites for non-profits and cultural institutions such as [MAS](http://mas.org/).
 - Duties include agile front-end web-development using modern web technologies such as jQuery, Node.JS, D3.JS, Wordpress, CARTO, and Github.
 
 ### Chris Henrick Cartography
