@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "about Chris Henrick"
+title: "about Mohamad Abu Shally"
 subheadline: ""
 teaser: ""
-meta_description: "About Chris Henrick: Creative Technologist and Educator"
+meta_description: "about Mohamad Abu Shally: Content Creator"
 permalink: "/about/"
 header: no
 ---

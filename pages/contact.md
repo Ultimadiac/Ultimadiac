@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-meta_description: "Contact Chris Henrick"
+meta_description: "Contact Mohamad Abu Shally"
 subheadline: ""
 teaser: "Want to get in touch with me? Please use the contact form below."
 permalink: "/contact/"
@@ -25,6 +25,12 @@ textarea:focus {
   action="https://formspree.io/f/xdoylarw"
   method="POST"
 >
+  <label>
+    Basic info:
+    Email: Mohamed1330@gmail.com
+    Phone: +972502122130
+    LinkedIn: https://www.linkedin.com/in/ultimadiac/
+  </label>
   <label>
     Your email:
     <input type="email" name="_replyto">
