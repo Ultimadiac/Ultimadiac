@@ -13,7 +13,7 @@ form.addEventListener('submit', (event) => {
   if (!email) {
     alert('Please enter a valid email address.');
     return;
-  }
+  } 
 
   // Send email address to server (in a real application, you would send this data to a server-side script)
   alert(`Thank you for subscribing with email: ${email}`);
