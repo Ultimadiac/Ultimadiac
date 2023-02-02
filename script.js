@@ -1,11 +1,20 @@
-// Select the navigation links
-const links = document.querySelectorAll('nav a');
+// Get form elements
+const form = document.querySelector('form');
+const emailInput = document.querySelector('input[type="email"]');
 
-// Add an event listener to each link
-links.forEach(link => {
-    link.addEventListener('click', event => {
-        event.preventDefault();
-        const target = document.querySelector(event.target.hash);
-        target.scrollIntoView({ behavior: 'smooth' });
-    });
+// Add submit event listener to form
+form.addEventListener('submit', (event) => {
+  event.preventDefault();
+
+  // Get entered email address
+  const email = emailInput.value;
+
+  // Validate email address
+  if (!email) {
+    alert('Please enter a valid email address.');
+    return;
+  }
+
+  // Send email address to server (in a real application, you would send this data to a server-side script)
+  alert(`Thank you for subscribing with email: ${email}`);
 });
